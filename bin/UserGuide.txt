@@ -1,0 +1,12 @@
+Welcome to MazeWorld!
+Goal: Solve the maze by reaching the purple square
+Key events:
+  n - creates a new maze
+  v - creates a new maze with predominantly vertical lines
+  h - creates a new maze with predominantly horizontal lines
+  r - resets the current maze
+  d - solves the maze by depth-first search
+  b - solves the maze by breadth-first search
+  s - toggles showing the user path
+  space - toggle heatmap view
+  arrow keys - move around the maze
